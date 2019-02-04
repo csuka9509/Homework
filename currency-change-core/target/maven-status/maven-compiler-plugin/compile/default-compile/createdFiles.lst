@@ -1,0 +1,6 @@
+hu\training\currency\CurrencyChangeService.class
+hu\training\currency\CurrencyRatesService.class
+hu\training\currency\Currency.class
+hu\training\currency\CurrencyChangeServiceImpl.class
+hu\training\currency\CurrencyRatesServiceImpl.class
+hu\training\currency\CurrencyRatesMock.class
